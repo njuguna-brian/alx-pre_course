@@ -1,1 +1,3 @@
-My first readme
+# Description
+
+This repository is for the introductory part of the ALX Full stack software developer course.
